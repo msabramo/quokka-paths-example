@@ -1,0 +1,7 @@
+{
+  "name": "quokka-paths-example",
+  "version": "1.0.0",
+  "main": "app.ts",
+  "author": "Chris Sauve <chrismsauve@gmail.com>",
+  "license": "MIT"
+}
