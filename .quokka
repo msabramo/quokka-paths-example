@@ -1,0 +1,16 @@
+{
+  "ts": {
+    "compilerOptions": {
+      "baseUrl": ".",
+      "rootDir": ".",
+      "moduleResolution": "node",
+      "paths": {
+        "*": [
+          "*",
+          "packages/*",
+          "app/*"
+        ]
+      }
+    }
+  }
+}
